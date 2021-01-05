@@ -42,7 +42,7 @@
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.0",
     "@babel/register": "^7.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-register-ts": "^7.0.0",
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
